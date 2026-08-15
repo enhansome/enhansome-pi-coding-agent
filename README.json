@@ -6,7 +6,7 @@
       "title": "How it works"
     },
     {
-      "description": "8289 resources indexed · Updated daily.",
+      "description": "8348 resources indexed · Updated daily.",
       "items": [],
       "title": "Stats"
     },
@@ -17,9 +17,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:12:20.065Z",
+    "last_updated": "2026-08-15T21:08:02.379Z",
     "original_repository": "shaftoe/awesome-pi-coding-agent",
-    "original_repository_sha": "b60aa04313e26d1a3bb410dc6f6eb2b5b5d69efb",
+    "original_repository_sha": "58ffe15fd9d595389d6bbd00af9dafbc09656721",
     "enhanced_repository": "enhansome/enhansome-pi-coding-agent",
     "enhanced_repository_description": null,
     "title": "Awesome Pi Coding Agent with stars"
