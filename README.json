@@ -1,25 +1,10 @@
 {
-  "items": [
-    {
-      "description": "A four-stage data pipeline runs daily on CI — discover from various sources → filter for Pi relevance → deduplicate & classify → render this list.\n→ Full architecture docs",
-      "items": [],
-      "title": "How it works"
-    },
-    {
-      "description": "8561 resources indexed · Updated daily.",
-      "items": [],
-      "title": "Stats"
-    },
-    {
-      "description": "Extend pi's capabilities -- custom tools, hooks, integrations, and UI modifications.",
-      "items": [],
-      "title": "Extensions"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T21:10:47.426Z",
+    "last_updated": "2026-08-19T12:52:00.742Z",
     "original_repository": "shaftoe/awesome-pi-coding-agent",
-    "original_repository_sha": "70780619091b325055adb7797737a94704d2f326",
+    "original_repository_id": 1217066206,
+    "original_repository_sha": "0b13cb33d7445deac5961d3d5ccb660d10cb8c16",
     "enhanced_repository": "enhansome/enhansome-pi-coding-agent",
     "enhanced_repository_description": null,
     "title": "Awesome Pi Coding Agent with stars"
