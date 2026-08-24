@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T07:09:49Z",
             "owner": "agegr",
             "repo": "pi-web",
-            "stars": 5155
+            "stars": 5166
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-22T06:29:01Z",
             "owner": "rynfar",
             "repo": "meridian",
-            "stars": 1920
+            "stars": 1921
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 1035029907,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:40:25Z",
+            "last_commit": "2026-08-24T19:56:11Z",
             "owner": "earendil-works",
             "repo": "pi",
-            "stars": 96441
+            "stars": 96573
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-28T06:56:01Z",
             "owner": "minghinmatthewlam",
             "repo": "pi-gui",
-            "stars": 871
+            "stars": 873
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 1163808211,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T18:50:13Z",
+            "last_commit": "2026-08-24T14:44:37Z",
             "owner": "liustack",
             "repo": "modlens",
-            "stars": 3593
+            "stars": 3602
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 1192646696,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:28:45Z",
+            "last_commit": "2026-08-24T19:15:27Z",
             "owner": "cortexkit",
             "repo": "magic-context",
-            "stars": 1851
+            "stars": 1855
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 1114031887,
             "language": "Python",
-            "last_commit": "2026-08-24T14:34:38Z",
+            "last_commit": "2026-08-24T15:16:03Z",
             "owner": "Abilityai",
             "repo": "trinity",
-            "stars": 480
+            "stars": 482
           }
         },
         {
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 1035029907,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:40:25Z",
+            "last_commit": "2026-08-24T19:56:11Z",
             "owner": "earendil-works",
             "repo": "pi",
-            "stars": 96441
+            "stars": 96573
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-24T13:41:35Z",
             "owner": "ruvnet",
             "repo": "metaharness",
-            "stars": 606
+            "stars": 607
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-23T00:15:32Z",
             "owner": "nicobailon",
             "repo": "pi-intercom",
-            "stars": 466
+            "stars": 467
           }
         },
         {
@@ -192,10 +192,10 @@
             "archived": false,
             "id": 1202410617,
             "language": "MDX",
-            "last_commit": "2026-08-24T14:09:25Z",
+            "last_commit": "2026-08-24T20:49:57Z",
             "owner": "FailproofAI",
             "repo": "failproofai",
-            "stars": 1488
+            "stars": 1491
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-24T13:41:35Z",
             "owner": "ruvnet",
             "repo": "metaharness",
-            "stars": 606
+            "stars": 607
           }
         },
         {
@@ -252,10 +252,10 @@
             "archived": false,
             "id": 1081638046,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:30:07Z",
+            "last_commit": "2026-08-24T19:31:28Z",
             "owner": "bastani-inc",
             "repo": "atomic",
-            "stars": 682
+            "stars": 690
           }
         },
         {
@@ -267,10 +267,10 @@
             "archived": false,
             "id": 1081638046,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:30:07Z",
+            "last_commit": "2026-08-24T19:31:28Z",
             "owner": "bastani-inc",
             "repo": "atomic",
-            "stars": 682
+            "stars": 690
           }
         }
       ],
@@ -278,7 +278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:43:36.062Z",
+    "last_updated": "2026-08-24T21:15:55.033Z",
     "original_repository": "shaftoe/awesome-pi-coding-agent",
     "original_repository_id": 1217066206,
     "original_repository_sha": "0d28513f2c8c7ea0a42b374da62e8dd4cd639b32",
