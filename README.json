@@ -15,8 +15,9 @@
             "last_commit": "2026-08-26T05:59:32Z",
             "owner": "agegr",
             "repo": "pi-web",
-            "stars": 5386
-          }
+            "stars": 5467
+          },
+          "first_seen": "2026-08-28T04:56:45.251Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 1138589051,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T07:43:51Z",
+            "last_commit": "2026-08-27T20:34:11Z",
             "owner": "rynfar",
             "repo": "meridian",
-            "stars": 1943
-          }
+            "stars": 1948
+          },
+          "first_seen": "2026-08-28T04:56:45.251Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 1035029907,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T09:53:02Z",
+            "last_commit": "2026-08-28T00:10:21Z",
             "owner": "earendil-works",
             "repo": "pi",
-            "stars": 98130
-          }
+            "stars": 98411
+          },
+          "first_seen": "2026-08-28T04:56:45.251Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-07-28T06:56:01Z",
             "owner": "minghinmatthewlam",
             "repo": "pi-gui",
-            "stars": 887
-          }
+            "stars": 890
+          },
+          "first_seen": "2026-08-28T04:56:45.251Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 1163808211,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T07:33:45Z",
+            "last_commit": "2026-08-27T17:32:16Z",
             "owner": "liustack",
             "repo": "modlens",
-            "stars": 3717
-          }
+            "stars": 3732
+          },
+          "first_seen": "2026-08-28T04:56:45.251Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 1192646696,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:40:23Z",
+            "last_commit": "2026-08-28T02:49:42Z",
             "owner": "cortexkit",
             "repo": "magic-context",
-            "stars": 1900
-          }
+            "stars": 1906
+          },
+          "first_seen": "2026-08-28T04:56:45.251Z"
         },
         {
           "node_type": "item",
@@ -105,8 +111,9 @@
             "last_commit": "2026-08-20T08:08:44Z",
             "owner": "ccch1mneyyy",
             "repo": "working-activity",
-            "stars": 654
-          }
+            "stars": 655
+          },
+          "first_seen": "2026-08-28T04:56:45.251Z"
         },
         {
           "node_type": "item",
@@ -117,11 +124,12 @@
             "archived": false,
             "id": 1035029907,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T09:53:02Z",
+            "last_commit": "2026-08-28T00:10:21Z",
             "owner": "earendil-works",
             "repo": "pi",
-            "stars": 98130
-          }
+            "stars": 98411
+          },
+          "first_seen": "2026-08-28T04:56:45.251Z"
         },
         {
           "node_type": "item",
@@ -135,8 +143,9 @@
             "last_commit": "2026-08-27T08:18:46Z",
             "owner": "ruvnet",
             "repo": "metaharness",
-            "stars": 616
-          }
+            "stars": 617
+          },
+          "first_seen": "2026-08-28T04:56:45.251Z"
         },
         {
           "node_type": "item",
@@ -150,8 +159,9 @@
             "last_commit": "2026-08-23T00:15:32Z",
             "owner": "nicobailon",
             "repo": "pi-intercom",
-            "stars": 479
-          }
+            "stars": 480
+          },
+          "first_seen": "2026-08-28T04:56:45.251Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "HazAT",
             "repo": "pi-config",
             "stars": 442
-          }
+          },
+          "first_seen": "2026-08-28T04:56:45.251Z"
         },
         {
           "node_type": "item",
@@ -177,11 +188,12 @@
             "archived": false,
             "id": 1202410617,
             "language": "MDX",
-            "last_commit": "2026-08-27T11:49:15Z",
+            "last_commit": "2026-08-28T04:31:21Z",
             "owner": "FailproofAI",
             "repo": "failproofai",
-            "stars": 1509
-          }
+            "stars": 1513
+          },
+          "first_seen": "2026-08-28T04:56:45.251Z"
         },
         {
           "node_type": "item",
@@ -195,8 +207,9 @@
             "last_commit": "2026-08-27T08:18:46Z",
             "owner": "ruvnet",
             "repo": "metaharness",
-            "stars": 616
-          }
+            "stars": 617
+          },
+          "first_seen": "2026-08-28T04:56:45.251Z"
         },
         {
           "node_type": "item",
@@ -210,8 +223,9 @@
             "last_commit": "2026-08-03T07:28:36Z",
             "owner": "nicobailon",
             "repo": "pi-boomerang",
-            "stars": 297
-          }
+            "stars": 298
+          },
+          "first_seen": "2026-08-28T04:56:45.251Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "tmdgusya",
             "repo": "roach-pi",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-28T04:56:45.251Z"
         },
         {
           "node_type": "item",
@@ -237,26 +252,27 @@
             "archived": false,
             "id": 1081638046,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:05:44Z",
+            "last_commit": "2026-08-28T04:26:44Z",
             "owner": "bastani-inc",
             "repo": "atomic",
-            "stars": 702
-          }
+            "stars": 706
+          },
+          "first_seen": "2026-08-28T04:56:45.251Z"
         }
       ],
       "title": "Extensions"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:15.582Z",
+    "last_updated": "2026-08-28T04:56:45.251Z",
     "original_repository_info": {
       "archived": false,
       "id": 1217066206,
       "language": "TypeScript",
-      "last_commit": "2026-08-27T04:23:58Z",
+      "last_commit": "2026-08-27T17:20:29Z",
       "owner": "shaftoe",
       "repo": "awesome-pi-coding-agent",
-      "stars": 96
+      "stars": 97
     },
     "original_repository_sha": "3ffde46e067da71b747cd050c5cb7164ca3fc195",
     "enhanced_repository": "enhansome/enhansome-pi-coding-agent",
