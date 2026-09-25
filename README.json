@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-23T06:58:45Z",
-            "open_issues": 97,
+            "open_issues": 99,
             "owner": "agegr",
             "repo": "pi-web",
-            "stars": 6806,
+            "stars": 6824,
             "topics": []
           },
           "first_seen": "2026-09-03T22:51:11.814Z"
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "vastsa-PI-Desktop",
-          "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins ⭐5.4k today",
+          "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins ⭐5.6k today",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -36,11 +36,11 @@
             "id": 617502359,
             "language": "TypeScript",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-24T21:10:58Z",
-            "open_issues": 170,
+            "last_commit": "2026-09-25T20:31:01Z",
+            "open_issues": 190,
             "owner": "vastsa",
             "repo": "PI-Desktop",
-            "stars": 5583,
+            "stars": 5738,
             "topics": [
               "ai-agent",
               "coding-agent",
@@ -73,11 +73,11 @@
             "id": 1138589051,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-24T11:06:32Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-25T20:56:33Z",
+            "open_issues": 12,
             "owner": "rynfar",
             "repo": "meridian",
-            "stars": 2046,
+            "stars": 2054,
             "topics": [
               "ai-agents",
               "ai-coding",
@@ -115,11 +115,11 @@
             "id": 1035029907,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T22:09:55Z",
-            "open_issues": 215,
+            "last_commit": "2026-09-25T23:02:18Z",
+            "open_issues": 227,
             "owner": "earendil-works",
             "repo": "pi",
-            "stars": 109178,
+            "stars": 109360,
             "topics": []
           },
           "first_seen": "2026-08-28T04:56:45.251Z"
@@ -127,7 +127,7 @@
         {
           "node_type": "item",
           "title": "minghinmatthewlam-pi-gui",
-          "description": "Electron GUI app for the pi coding agent runtime ⭐972 today",
+          "description": "Electron GUI app for the pi coding agent runtime ⭐983 today",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -136,11 +136,11 @@
             "id": 1187458648,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T20:23:59Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-25T21:16:56Z",
+            "open_issues": 15,
             "owner": "minghinmatthewlam",
             "repo": "pi-gui",
-            "stars": 983,
+            "stars": 988,
             "topics": []
           },
           "first_seen": "2026-09-03T22:51:11.814Z"
@@ -161,7 +161,7 @@
             "open_issues": 2,
             "owner": "liustack",
             "repo": "modlens",
-            "stars": 4027,
+            "stars": 4038,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -189,43 +189,8 @@
         },
         {
           "node_type": "item",
-          "title": "cortexkit-magic-context",
-          "description": "Magic Context cache-aware infinite context, cross-session memory, and background history compression ⭐671 4mo ago",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexKit.",
-            "homepage": "https://discord.gg/DSa65w8wuf",
-            "id": 1192646696,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-24T22:54:18Z",
-            "open_issues": 25,
-            "owner": "cortexkit",
-            "repo": "magic-context",
-            "stars": 2201,
-            "topics": [
-              "agent-framework",
-              "agent-memory",
-              "ai",
-              "ai-agents",
-              "ai-context",
-              "ai-memory",
-              "cache-aware",
-              "context-engineering",
-              "context-management",
-              "langchain",
-              "memory",
-              "opencode",
-              "pi-coding-agent"
-            ]
-          },
-          "first_seen": "2026-08-28T04:56:45.251Z"
-        },
-        {
-          "node_type": "item",
           "title": "ruvnet-metaharness",
-          "description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Code ⭐671 2d ago",
+          "description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Code ⭐672 today",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -234,11 +199,11 @@
             "id": 1268611404,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T15:00:00Z",
+            "last_commit": "2026-09-25T14:56:26Z",
             "open_issues": 136,
             "owner": "ruvnet",
             "repo": "metaharness",
-            "stars": 672,
+            "stars": 674,
             "topics": [
               "agent-harness",
               "agent-harness-generator",
@@ -266,8 +231,43 @@
         },
         {
           "node_type": "item",
+          "title": "cortexkit-magic-context",
+          "description": "Magic Context cache-aware infinite context, cross-session memory, and background history compression ⭐671 4mo ago",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexKit.",
+            "homepage": "https://discord.gg/DSa65w8wuf",
+            "id": 1192646696,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-25T22:47:29Z",
+            "open_issues": 27,
+            "owner": "cortexkit",
+            "repo": "magic-context",
+            "stars": 2209,
+            "topics": [
+              "agent-framework",
+              "agent-memory",
+              "ai",
+              "ai-agents",
+              "ai-context",
+              "ai-memory",
+              "cache-aware",
+              "context-engineering",
+              "context-management",
+              "langchain",
+              "memory",
+              "opencode",
+              "pi-coding-agent"
+            ]
+          },
+          "first_seen": "2026-08-28T04:56:45.251Z"
+        },
+        {
+          "node_type": "item",
           "title": "ccch1mneyyy-working-activity",
-          "description": "Lively Working-line extension for pi CLI and DSH ⭐659 24d ago",
+          "description": "Lively Working-line extension for pi CLI and DSH ⭐659 25d ago",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -295,7 +295,7 @@
         {
           "node_type": "item",
           "title": "nicobailon-pi-intercom",
-          "description": "Inter-session communication extension for pi coding agent ⭐523 today",
+          "description": "Inter-session communication extension for pi coding agent ⭐523 yesterday",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -308,7 +308,7 @@
             "open_issues": 1,
             "owner": "nicobailon",
             "repo": "pi-intercom",
-            "stars": 523,
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-28T04:56:45.251Z"
@@ -337,7 +337,7 @@
         {
           "node_type": "item",
           "title": "pranshuchittora-simvyn",
-          "description": "Universal mobile devtool for Agents & Humans - control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI ⭐429 10d ago",
+          "description": "Universal mobile devtool for Agents & Humans - control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI ⭐431 11d ago",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T23:34:39.386Z",
+    "last_updated": "2026-09-25T23:38:53.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "An auto-discovered, LLM curated directory of resources for the Pi Coding Agent ecosystem. Updated daily.",
@@ -383,17 +383,17 @@
       "id": 1217066206,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-09-24T12:57:13Z",
-      "open_issues": 8,
+      "last_commit": "2026-09-25T11:30:33Z",
+      "open_issues": 13,
       "owner": "shaftoe",
       "repo": "awesome-pi-coding-agent",
-      "stars": 132,
+      "stars": 134,
       "topics": [
         "awesome-list",
         "pi-coding-agent"
       ]
     },
-    "original_repository_sha": "502381ef0242fdb13654a53588d765945fddfee4",
+    "original_repository_sha": "40b414b73b010a28820d592fe084030a17163b03",
     "enhanced_repository": "enhansome/enhansome-pi-coding-agent",
     "enhanced_repository_description": null,
     "title": "Awesome Coding Agent with stars"
