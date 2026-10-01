@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "agegr-pi-web",
-          "description": "Web UI for the pi coding agent ⭐6.9k 5d ago",
+          "description": "Web UI for the pi coding agent ⭐7.0k today",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 1188718672,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T14:50:20Z",
-            "open_issues": 121,
+            "last_commit": "2026-09-30T15:40:23Z",
+            "open_issues": 47,
             "owner": "agegr",
             "repo": "pi-web",
-            "stars": 6948,
+            "stars": 6981,
             "topics": []
           },
           "first_seen": "2026-09-03T22:51:11.814Z"
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "vastsa-PI-Desktop",
-          "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins ⭐6.0k today",
+          "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins ⭐6.1k today",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -36,11 +36,11 @@
             "id": 617502359,
             "language": "TypeScript",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-29T18:25:27Z",
-            "open_issues": 200,
+            "last_commit": "2026-09-30T19:59:16Z",
+            "open_issues": 207,
             "owner": "vastsa",
             "repo": "PI-Desktop",
-            "stars": 6114,
+            "stars": 6179,
             "topics": [
               "ai-agent",
               "coding-agent",
@@ -74,10 +74,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-09-29T20:55:12Z",
-            "open_issues": 24,
+            "open_issues": 28,
             "owner": "rynfar",
             "repo": "meridian",
-            "stars": 2068,
+            "stars": 2072,
             "topics": [
               "ai-agents",
               "ai-coding",
@@ -106,7 +106,7 @@
         {
           "node_type": "item",
           "title": "pi-extensions",
-          "description": "Personal extensions for the Pi coding agent. ⬇ 1.2k/mo 6d ago",
+          "description": "Personal extensions for the Pi coding agent. ⬇ 1.5k/mo 7d ago",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -115,11 +115,11 @@
             "id": 1035029907,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T23:35:05Z",
-            "open_issues": 238,
+            "last_commit": "2026-10-01T00:06:05Z",
+            "open_issues": 234,
             "owner": "earendil-works",
             "repo": "pi",
-            "stars": 110389,
+            "stars": 110763,
             "topics": []
           },
           "first_seen": "2026-08-28T04:56:45.251Z"
@@ -127,7 +127,7 @@
         {
           "node_type": "item",
           "title": "minghinmatthewlam-pi-gui",
-          "description": "Electron GUI app for the pi coding agent runtime ⭐1.0k today",
+          "description": "Electron GUI app for the pi coding agent runtime ⭐1.1k today",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -136,11 +136,11 @@
             "id": 1187458648,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T23:30:49Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-30T22:42:57Z",
+            "open_issues": 19,
             "owner": "minghinmatthewlam",
             "repo": "pi-gui",
-            "stars": 1052,
+            "stars": 1058,
             "topics": []
           },
           "first_seen": "2026-09-03T22:51:11.814Z"
@@ -161,7 +161,7 @@
             "open_issues": 5,
             "owner": "liustack",
             "repo": "modlens",
-            "stars": 4072,
+            "stars": 4093,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -190,7 +190,7 @@
         {
           "node_type": "item",
           "title": "ruvnet-metaharness",
-          "description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Code ⭐679 today",
+          "description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Code ⭐681 today",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -199,8 +199,8 @@
             "id": 1268611404,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T08:24:09Z",
-            "open_issues": 125,
+            "last_commit": "2026-09-30T08:19:54Z",
+            "open_issues": 127,
             "owner": "ruvnet",
             "repo": "metaharness",
             "stars": 681,
@@ -241,11 +241,11 @@
             "id": 1192646696,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T23:52:50Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-30T23:39:57Z",
+            "open_issues": 30,
             "owner": "cortexkit",
             "repo": "magic-context",
-            "stars": 2243,
+            "stars": 2246,
             "topics": [
               "agent-framework",
               "agent-memory",
@@ -267,7 +267,7 @@
         {
           "node_type": "item",
           "title": "ccch1mneyyy-working-activity",
-          "description": "Lively Working-line extension for pi CLI and DSH ⭐659 29d ago",
+          "description": "Lively Working-line extension for pi CLI and DSH ⭐659 ~1mo ago",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -295,7 +295,7 @@
         {
           "node_type": "item",
           "title": "nicobailon-pi-intercom",
-          "description": "Inter-session communication extension for pi coding agent ⭐522 yesterday",
+          "description": "Inter-session communication extension for pi coding agent ⭐524 2d ago",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -304,11 +304,11 @@
             "id": 1179528742,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T04:11:19Z",
+            "last_commit": "2026-09-30T22:48:41Z",
             "open_issues": 0,
             "owner": "nicobailon",
             "repo": "pi-intercom",
-            "stars": 524,
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-28T04:56:45.251Z"
@@ -329,7 +329,7 @@
             "open_issues": 0,
             "owner": "HazAT",
             "repo": "pi-config",
-            "stars": 450,
+            "stars": 451,
             "topics": []
           },
           "first_seen": "2026-08-28T04:56:45.251Z"
@@ -337,7 +337,7 @@
         {
           "node_type": "item",
           "title": "pranshuchittora-simvyn",
-          "description": "Universal mobile devtool for Agents & Humans - control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI ⭐433 15d ago",
+          "description": "Universal mobile devtool for Agents & Humans - control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI ⭐434 16d ago",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -346,8 +346,8 @@
             "id": 1168483597,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T19:38:19Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-30T22:01:38Z",
+            "open_issues": 2,
             "owner": "pranshuchittora",
             "repo": "simvyn",
             "stars": 434,
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:58:52.101Z",
+    "last_updated": "2026-10-01T00:12:32.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "An auto-discovered, LLM curated directory of resources for the Pi Coding Agent ecosystem. Updated daily.",
@@ -383,17 +383,17 @@
       "id": 1217066206,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-09-29T02:28:53Z",
-      "open_issues": 7,
+      "last_commit": "2026-09-30T12:54:42Z",
+      "open_issues": 6,
       "owner": "shaftoe",
       "repo": "awesome-pi-coding-agent",
-      "stars": 143,
+      "stars": 145,
       "topics": [
         "awesome-list",
         "pi-coding-agent"
       ]
     },
-    "original_repository_sha": "e4ae6540cae11452b1b985a17a469ea2dee7fbbd",
+    "original_repository_sha": "90511daf7fa9093dd14d9302258e5bab512ce846",
     "enhanced_repository": "enhansome/enhansome-pi-coding-agent",
     "enhanced_repository_description": null,
     "title": "Awesome Coding Agent with stars"
