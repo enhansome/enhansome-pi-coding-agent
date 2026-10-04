@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "agegr-pi-web",
-          "description": "Web UI for the pi coding agent ⭐7.0k today",
+          "description": "Web UI for the pi coding agent ⭐7.0k yesterday",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T16:57:25Z",
-            "open_issues": 69,
+            "open_issues": 78,
             "owner": "agegr",
             "repo": "pi-web",
-            "stars": 7043,
+            "stars": 7062,
             "topics": []
           },
           "first_seen": "2026-09-03T22:51:11.814Z"
@@ -36,11 +36,11 @@
             "id": 617502359,
             "language": "TypeScript",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-03T17:32:05Z",
-            "open_issues": 202,
+            "last_commit": "2026-10-04T18:41:04Z",
+            "open_issues": 198,
             "owner": "vastsa",
             "repo": "PI-Desktop",
-            "stars": 6305,
+            "stars": 6357,
             "topics": [
               "ai-agent",
               "coding-agent",
@@ -73,11 +73,11 @@
             "id": 1138589051,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-03T08:51:59Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-04T23:34:23Z",
+            "open_issues": 36,
             "owner": "rynfar",
             "repo": "meridian",
-            "stars": 2089,
+            "stars": 2092,
             "topics": [
               "ai-agents",
               "ai-coding",
@@ -106,7 +106,7 @@
         {
           "node_type": "item",
           "title": "pi-extensions",
-          "description": "Personal extensions for the Pi coding agent. ⬇ 1.5k/mo 10d ago",
+          "description": "Personal extensions for the Pi coding agent. ⬇ 1.5k/mo 11d ago",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -115,11 +115,11 @@
             "id": 1035029907,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T23:01:23Z",
-            "open_issues": 266,
+            "last_commit": "2026-10-04T22:58:35Z",
+            "open_issues": 262,
             "owner": "earendil-works",
             "repo": "pi",
-            "stars": 112142,
+            "stars": 112441,
             "topics": []
           },
           "first_seen": "2026-08-28T04:56:45.251Z"
@@ -127,7 +127,7 @@
         {
           "node_type": "item",
           "title": "minghinmatthewlam-pi-gui",
-          "description": "Electron GUI app for the pi coding agent runtime ⭐1.1k today",
+          "description": "Electron GUI app for the pi coding agent runtime ⭐1.1k yesterday",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -136,11 +136,11 @@
             "id": 1187458648,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T18:40:07Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-04T23:31:46Z",
+            "open_issues": 22,
             "owner": "minghinmatthewlam",
             "repo": "pi-gui",
-            "stars": 1142,
+            "stars": 1153,
             "topics": []
           },
           "first_seen": "2026-09-03T22:51:11.814Z"
@@ -157,11 +157,11 @@
             "id": 1163808211,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T20:45:40Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-04T07:39:35Z",
+            "open_issues": 2,
             "owner": "liustack",
             "repo": "modlens",
-            "stars": 4110,
+            "stars": 4120,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -241,11 +241,11 @@
             "id": 1192646696,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T23:19:51Z",
-            "open_issues": 47,
+            "last_commit": "2026-10-04T23:19:29Z",
+            "open_issues": 21,
             "owner": "cortexkit",
             "repo": "magic-context",
-            "stars": 2258,
+            "stars": 2261,
             "topics": [
               "agent-framework",
               "agent-memory",
@@ -295,7 +295,7 @@
         {
           "node_type": "item",
           "title": "nicobailon-pi-intercom",
-          "description": "Inter-session communication extension for pi coding agent ⭐525 2d ago",
+          "description": "Inter-session communication extension for pi coding agent ⭐525 today",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T23:23:27.653Z",
+    "last_updated": "2026-10-04T23:37:48.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "An auto-discovered, LLM curated directory of resources for the Pi Coding Agent ecosystem. Updated daily.",
@@ -326,17 +326,17 @@
       "id": 1217066206,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-10-03T01:41:12Z",
+      "last_commit": "2026-10-04T02:18:14Z",
       "open_issues": 6,
       "owner": "shaftoe",
       "repo": "awesome-pi-coding-agent",
-      "stars": 147,
+      "stars": 148,
       "topics": [
         "awesome-list",
         "pi-coding-agent"
       ]
     },
-    "original_repository_sha": "746e0087a77ecc0f60adbf9747e639af2e7f4fc5",
+    "original_repository_sha": "71eae3fca466081772d362c32190f71e1e29a0e0",
     "enhanced_repository": "enhansome/enhansome-pi-coding-agent",
     "enhanced_repository_description": null,
     "title": "Awesome Coding Agent with stars"
